@@ -1,8 +1,7 @@
 Hi there 👋  I am DENIZ ;
 
 - 🔭 I’m currently working on Full Stack Technologies
-- 🌱 I’m currently learning .net and more
-- 💬 You can ask me whatever you want
+
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/denizseyrekbasan">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]</a>
 <a href="https://www.youtube.com/@denizseyrekbasan/videos"> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]</a>
